@@ -1,5 +1,6 @@
-# Open source online high quality music player is now live ✨ 
+Online Music Player
+# Open source online high quality music player app is now live ✨ 
 
 Click 👇 to check how it functions 😃
 
-[GMusic App](https://gmusic.netlify.app/).
+[Music App](https://gaana-music.netlify.app/).
